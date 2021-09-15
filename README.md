@@ -4,7 +4,7 @@ Olá, seja bem-vindo ao meu repositório :bird:
 
 Visual e funcionalidades do projeto:
 
-![gif]()
+![slide](https://user-images.githubusercontent.com/90439416/133482711-a03755ba-32c5-4a7f-8032-6ef6837fe70d.gif)
 
 Tecnologias utilizadas no projeto:
 
