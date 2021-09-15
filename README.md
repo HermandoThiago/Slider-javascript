@@ -14,6 +14,6 @@ Tecnologias utilizadas no projeto:
 
 Para quem se interessar em como foi construído o código javascript, segue o código abaixo:
 
-![code](C:\Users\Hermando Thiago\Desktop\repositories\slider-js\images\code.png)
+![code](https://user-images.githubusercontent.com/90439416/133483153-b8d4810d-85e4-4d76-aa7f-887a0901223f.png)
 
 Espero que este projeto tenha contribuído para o seu conhecimento, obrigado pela visita :game_die:
