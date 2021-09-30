@@ -16,4 +16,6 @@ Para quem se interessar em como foi construído o código javascript, segue o c�
 
 ![code](https://user-images.githubusercontent.com/90439416/133483153-b8d4810d-85e4-4d76-aa7f-887a0901223f.png)
 
+### Link para o Github-Page do projeto: https://hermandothiago.github.io/Slider-javascript/
+
 Espero que este projeto tenha contribuído para o seu conhecimento, obrigado pela visita :game_die:
